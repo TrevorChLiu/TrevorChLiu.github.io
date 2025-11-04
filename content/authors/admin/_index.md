@@ -7,7 +7,7 @@ name_pronunciation:
 
 # Full name (for SEO)
 first_name: Chenhe
-last_name: LIU
+last_name: Liu
 
 # Pronouns (optional)
 pronouns:
@@ -43,133 +43,135 @@ profiles:
     url: https://www.instagram.com/eug1936404629/?hl=en
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Computer Science (First-Class Honours)
+    institution: The University of Melbourne
+    date_start: ''                # original start date not provided in CV
+    date_end: 2026-06-30         # expected completion (June 2026)
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 87.9 / 100 (First-Class Honours).
+      Relevant coursework and project work in data structures, algorithm design,
+      computer vision, and mobile app development. Conducted undergraduate research
+      in reinforcement learning for autonomous vehicle routing and parking-substitute cruising.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      text: 'Download CV'
+      url: 'mailto:chenhe.liu@student.unimelb.edu.au'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Exchange — Computer Science
+    institution: The Chinese University of Hong Kong
+    date_start: 2025-01-01
+    date_end: 2025-05-31
     summary: |
-      GPA: 3.4/4.0
+      Exchange student (6 months). GPA: 3.63 / 4.00 (90.75%).
+      Completed coursework and academic collaboration while on exchange.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Undergraduate Researcher
+    company_name: The University of Melbourne
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2025-07-01
+    date_end: 2025-11-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Optimized autonomous vehicle parking strategy for a network of 1,000+ vehicles and 200+ agents.
+      - Designed a deep reinforcement learning based routing strategy to mitigate congestion caused by parking-substitute cruising while ensuring timely service.
+      - Proposed a flexible, personalized model that reduces reliance on top-down manager policies and achieved average speed improvements over baselines.
+    button:
+      text: 'Publication / Manuscript'
+      url: ''
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+  - position: Data Analyst
+    company_name: Geely Baikuang Group
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: 2025-07-31
+    summary: |
+      - Executed database operations on 2,000,000+ records: extraction, cleaning, and maintenance.
+      - Prepared and presented analysis reports to management, translating insights into recommendations.
+      - Developed automation scripts, a web application, and a mini program to streamline workflows and improve system efficiency.
+    button:
+      text: 'Company'
+      url: ''
+
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: 'Primary language for research, scripting, and automation'
+        percent: 90
         icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
       - name: PyTorch
-        description: ''
-        percent: 40
+        description: 'Deep learning framework used in RL experiments'
+        percent: 85
         icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
+      - name: Reinforcement Learning
+        description: 'Applied RL for routing and parking-substitute cruising problems'
+        percent: 80
+        icon: mdi:brain
+      - name: Machine Learning
+        description: 'Modeling, evaluation, and applied ML workflows'
+        percent: 80
+        icon: mdi:robot
+      - name: SUMO
+        description: 'Traffic simulation for multi-agent experiments'
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: mdi:car
+      - name: SQL / Databases
+        description: 'Large-scale data extraction, cleaning and querying'
+        percent: 75
+        icon: mdi:database
+      - name: Django
+        description: 'Web development and backend experience (projects)'
+        percent: 70
+        icon: devicon/django
+      - name: Java
         description: ''
         percent: 80
-        icon: camera
+        icon: devicon/java
+      - name: C
+        description: ''
+        percent: 85
+        icon: devicon/c
+      - name: Frontend / Backend
+        description: 'Full-stack experience from academic and industry projects'
+        percent: 70
+        icon: mdi:web
+      - name: Mobile / Mini Program
+        description: 'Android app development and mini program experience'
+        percent: 65
+        icon: mdi:android
+      - name: Data Structures & Algorithms
+        description: 'Applied in coursework and projects'
+        percent: 90
+        icon: mdi:code-tags
+      - name: Computer Vision
+        description: ''
+        percent: 70
+        icon: mdi:image
+
+# Projects & Publication (optional fields you may add elsewhere on the site)
+projects:
+  - title: LearnLeague (mobile app)
+    link: https://github.com/TrevorChLiu/LearnLeague
+    summary: 'Gamified learning app with personalized study plans and leaderboards.'
+
+  - title: C5-LML (web community)
+    link: https://github.com/TrevorChLiu/C5-LML
+    summary: 'Web-based community platform for gamers: rankings, profiles, and strategy discussions.'
+
+publications:
+  - title: Parking-Substitute Cruising Strategy Optimization: Reducing Congestion with Deep Reinforcement Learning
+    authors: 'Chenhe Liu, Farhana Choudhury'
+    venue: 'VEHITS 2025 (manuscript in progress)'
+    year: 2025
+    url: ''
+
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: brands/coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: brands/edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: brands/datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    percent: 100
 ---
 
 I am a third-year undergraduate student at the University of Melbourne, and I also completed a semester-long exchange program at the Chinese University of Hong Kong. I have a strong interest in machine learning and have conducted research on applying reinforcement learning to reduce traffic congestion caused by autonomous vehicle empty cruising. Beyond academics, I have strengthened my practical skills through internship experience.
