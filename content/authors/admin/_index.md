@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'trevor_chenhe_liu@foxmail.com'
+    url: 'mailto:trevor_chenhe_liu@foxmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/TrevorChLiu
@@ -52,9 +52,6 @@ education:
       Relevant coursework and project work in data structures, algorithm design,
       computer vision, and mobile app development. Conducted undergraduate research
       in reinforcement learning for autonomous vehicle routing and parking-substitute cruising.
-    button:
-      text: 'Download CV'
-      url: 'mailto:chenhe.liu@student.unimelb.edu.au'
 
   - area: Exchange — Computer Science
     institution: The Chinese University of Hong Kong
@@ -91,7 +88,7 @@ work:
       - Developed automation scripts, a web application, and a mini program to streamline workflows and improve system efficiency.
     button:
       text: 'Company'
-      url: ''
+      url: 'https://www.jlbkjt.com/'
 
 skills:
   - name: Technical Skills
@@ -151,13 +148,20 @@ skills:
 
 # Projects & Publication (optional fields you may add elsewhere on the site)
 awards: # Projects using awards theme
-  - title: "LearnLeague (mobile app)"
-    link: https://github.com/TrevorChLiu/LearnLeague
-    summary: 'Gamified learning app with personalized study plans and leaderboards.'
+    - title: "CS229 Lecture Notes (Stanford Machine Learning Open Course)"
+    url: https://github.com/TrevorChLiu/cs229-note
+    date: "2025-05-28"
+    summary: "Comprehensive study notes summarizing key concepts from Stanford's CS229, covering a wide range of machine learning techniques."
 
   - title: "C5-LML (web community)"
-    link: https://github.com/TrevorChLiu/C5-LML
+    url: https://github.com/TrevorChLiu/C5-LML
+    date: '2025-05-12'
     summary: 'Web-based community platform for gamers: rankings, profiles, and strategy discussions.'
+
+  - title: "LearnLeague (mobile app)"
+    url: https://github.com/TrevorChLiu/LearnLeague
+    date: '2025-04-09'
+    summary: 'Gamified learning app with personalized study plans and leaderboards.'
 
 publications:
   - title: "Parking-Substitute Cruising Strategy Optimization: Reducing Congestion with Deep Reinforcement Learning"
