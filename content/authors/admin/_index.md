@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+title: Trevor (Chenhe) Liu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chenhe
+last_name: LIU
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns:
 
 # Status emoji
 status:
@@ -20,27 +20,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Undergraduate majoring in BSc Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: The University of Melbourne
+    url: https://www.unimelb.edu.au/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'trevor_chenhe_liu@foxmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/BuildLore
+    url: https://x.com/TrevorChLiu
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/TrevorChLiu
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/chenhe-liu-668a20335/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/eug1936404629/?hl=en
 
 education:
   - area: PhD Artificial Intelligence
@@ -172,4 +172,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a third-year undergraduate student at the University of Melbourne, and I also completed a semester-long exchange program at the Chinese University of Hong Kong. I have a strong interest in machine learning and have conducted research on applying reinforcement learning to reduce traffic congestion caused by autonomous vehicle empty cruising. Beyond academics, I have strengthened my practical skills through internship experience.
