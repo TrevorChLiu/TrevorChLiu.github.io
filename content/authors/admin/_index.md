@@ -150,7 +150,7 @@ skills:
         icon: mdi:image
 
 # Projects & Publication (optional fields you may add elsewhere on the site)
-projects:
+awards: # Projects using awards theme
   - title: "LearnLeague (mobile app)"
     link: https://github.com/TrevorChLiu/LearnLeague
     summary: 'Gamified learning app with personalized study plans and leaderboards.'
