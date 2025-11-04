@@ -151,18 +151,18 @@ skills:
 
 # Projects & Publication (optional fields you may add elsewhere on the site)
 projects:
-  - title: LearnLeague (mobile app)
+  - title: "LearnLeague (mobile app)"
     link: https://github.com/TrevorChLiu/LearnLeague
     summary: 'Gamified learning app with personalized study plans and leaderboards.'
 
-  - title: C5-LML (web community)
+  - title: "C5-LML (web community)"
     link: https://github.com/TrevorChLiu/C5-LML
     summary: 'Web-based community platform for gamers: rankings, profiles, and strategy discussions.'
 
 publications:
-  - title: Parking-Substitute Cruising Strategy Optimization: Reducing Congestion with Deep Reinforcement Learning
-    authors: 'Chenhe Liu, Farhana Choudhury'
-    venue: 'VEHITS 2025 (manuscript in progress)'
+  - title: "Parking-Substitute Cruising Strategy Optimization: Reducing Congestion with Deep Reinforcement Learning"
+    authors: "Chenhe Liu, Farhana Choudhury"
+    venue: "VEHITS 2025 (manuscript in progress)"
     year: 2025
     url: ''
 
