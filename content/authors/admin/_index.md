@@ -94,57 +94,58 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: 'Primary language for research, scripting, and automation'
+        description: "Primary language for research, scripting, and automation tasks."
         percent: 90
         icon: devicon/python
       - name: PyTorch
-        description: 'Deep learning framework used in RL experiments'
+        description: "Deep learning framework used for implementing and training neural networks, including RL experiments."
         percent: 85
         icon: devicon/pytorch
       - name: Reinforcement Learning
-        description: 'Applied RL for routing and parking-substitute cruising problems'
+        description: "Applied RL algorithms for routing optimization and parking-substitute cruising scenarios."
         percent: 80
         icon: mdi:brain
       - name: Machine Learning
-        description: 'Modeling, evaluation, and applied ML workflows'
+        description: "Experience in modeling, evaluation, and implementing applied ML workflows."
         percent: 80
         icon: mdi:robot
       - name: SUMO
-        description: 'Traffic simulation for multi-agent experiments'
+        description: "Traffic simulation software for multi-agent transportation experiments."
         percent: 60
         icon: mdi:car
       - name: SQL / Databases
-        description: 'Large-scale data extraction, cleaning and querying'
+        description: "Proficient in large-scale data extraction, cleaning, and querying using SQL and relational databases."
         percent: 75
         icon: mdi:database
       - name: Django
-        description: 'Web development and backend experience (projects)'
+        description: "Backend and web development experience, including building full-stack projects."
         percent: 70
         icon: devicon/django
       - name: Java
-        description: ''
+        description: "Strong experience with Java programming, including OOP, data structures, and algorithms."
         percent: 80
         icon: devicon/java
       - name: C
-        description: ''
+        description: "Proficient in C programming, with experience in systems programming and low-level problem solving."
         percent: 85
         icon: devicon/c
       - name: Frontend / Backend
-        description: 'Full-stack experience from academic and industry projects'
+        description: "Full-stack development experience in academic and industry projects, covering both client-side and server-side."
         percent: 70
         icon: mdi:web
       - name: Mobile / Mini Program
-        description: 'Android app development and mini program experience'
+        description: "Experience in Android app development and building mini-programs for mobile platforms."
         percent: 65
         icon: mdi:android
       - name: Data Structures & Algorithms
-        description: 'Applied in coursework and projects'
+        description: "Applied knowledge of data structures and algorithms in coursework, coding challenges, and projects."
         percent: 90
         icon: mdi:code-tags
       - name: Computer Vision
-        description: ''
+        description: "Self-taught from UMich EECS 498-007 / 598-005; applied CV techniques in personal projects including image processing and object detection."
         percent: 70
         icon: mdi:image
+
 
 # Projects & Publication (optional fields you may add elsewhere on the site)
 awards: # Projects using awards theme
