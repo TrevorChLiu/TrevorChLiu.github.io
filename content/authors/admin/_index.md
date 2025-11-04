@@ -148,7 +148,7 @@ skills:
 
 # Projects & Publication (optional fields you may add elsewhere on the site)
 awards: # Projects using awards theme
-    - title: "CS229 Lecture Notes (Stanford Machine Learning Open Course)"
+  - title: "CS229 Lecture Notes (Stanford Machine Learning Open Course)"
     url: https://github.com/TrevorChLiu/cs229-note
     date: "2025-05-28"
     summary: "Comprehensive study notes summarizing key concepts from Stanford's CS229, covering a wide range of machine learning techniques."
@@ -161,7 +161,7 @@ awards: # Projects using awards theme
   - title: "LearnLeague (mobile app)"
     url: https://github.com/TrevorChLiu/LearnLeague
     date: '2025-04-09'
-    summary: 'Gamified learning app with personalized study plans and leaderboards.'
+    summary: 'Gamified learning app with personalized study plans and leaderboards'
 
 publications:
   - title: "Parking-Substitute Cruising Strategy Optimization: Reducing Congestion with Deep Reinforcement Learning"
